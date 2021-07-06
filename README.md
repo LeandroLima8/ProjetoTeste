@@ -1,2 +1,6 @@
-# ProjetoTeste
-Criar no gitHub e Clonar para o local
+# Linguagem c
+## Curso - Primeiros passos com a linguagem C
+zerxctryvubinom,ºç.,lmknbjhvuyctdrfyguihojpk+kopjihugiyuftdyrtyfugihojpk+lkojihugfdctyvubnmkjh9gyubhjknihugyftcghvjbkhgiuytfchgvjbkhgyutfrcbhjuygtfhgbjnuygtfvhgbjnuiygutfhcgbjkuiygutfvgbhjnuyiguvjbhnhuygu.
+
+![Homem letra](https://github.com/LeandroLima8/ProjetoTeste/blob/main/Homem%20letra.gif)
+### Assistir ao video de introdução 
