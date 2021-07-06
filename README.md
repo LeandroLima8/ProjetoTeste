@@ -6,3 +6,4 @@ zerxctryvubinom,ºç.,lmknbjhvuyctdrfyguihojpk+kopjihugiyuftdyrtyfugihojpk+lkoji
 ### Assistir ao video de introdução 
 
 ![GitHub followers](https://img.shields.io/github/followers/LeandroLima8?style=social)
+![Weblate user languages](https://img.shields.io/weblate/user/LeandroLima8/languages)
