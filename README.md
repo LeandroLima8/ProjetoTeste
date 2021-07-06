@@ -4,3 +4,5 @@ zerxctryvubinom,ºç.,lmknbjhvuyctdrfyguihojpk+kopjihugiyuftdyrtyfugihojpk+lkoji
 
 ![Homem letra](https://github.com/LeandroLima8/ProjetoTeste/blob/main/Homem%20letra.gif)
 ### Assistir ao video de introdução 
+
+https://img.shields.io/github/followers/LeandroLima8?style=social
